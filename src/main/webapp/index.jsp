@@ -4,9 +4,9 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 9538298600</h2>
+  <h2> Call Us : + 9916397284</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Bangalore </h3>
 
 </body>
 </html>
